@@ -41,7 +41,6 @@ def main():
 
     # 4. Resultado
     print(f"\n[Ordenada]: {my_list}")
-    print(f"Estadísticas -> Divisiones: {sorter.Divisiones} | Mezclas: {sorter.Mezclas}")
 
 if __name__ == "__main__":
     main()
